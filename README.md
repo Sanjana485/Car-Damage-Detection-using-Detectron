@@ -1,2 +1,2 @@
-# Vehicle-Damage-Detection-using-Detectron
-Vehicle Damage Detection in Machine Learning Using Detectron, OpenCV
+# Car-Damage-Detection-using-Detectron
+Car Damage Detection in Machine Learning Using Detectron, OpenCV
